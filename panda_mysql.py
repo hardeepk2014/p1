@@ -34,6 +34,4 @@ for query in query_list:
     print("Question " + str(cnt) +"==>" + query)
     print(str(result))
 
-
-
 mysql_cn.close()                             
